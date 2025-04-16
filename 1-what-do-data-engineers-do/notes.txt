@@ -1,1 +1,1 @@
-
+This lesson reviewed the key responsibilities of a data engineer. The primary responsibilities are moving data between systems with ETL pipelines, managing the quality of the data at every step of the process, and supporting the broad data strategy of the organization. It is important to keep end-users in mind. 
